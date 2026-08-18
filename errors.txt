@@ -1,3 +1,5 @@
 IndexError: string index out of range - when you try index which is not in the range
 ValueError: substring not found
 KeyError : dictionary extracting key using index
+KeyboardInterrupt
+ValueError: too many values to unpack (expected 2)

@@ -1,33 +1,29 @@
-# 7, ( position to index)
+# for num in range(2,-5,-1):
+#     print(num, end=",")
+# #
+# step -1 ==> end = end +1
+
+
+# for i in range(3):
+#     if i == 0:
+#         break
+#     print(i)
+# else:#this else block is outside of for loop, this will execute when loop terminates naturally
+#     print("Loop finished")
 
 
 
-# a = True
-#
-# int
-# float
-# str
-# bool() --> False when input value '', None, 0
-#
-# bool('')
-# bool(0)
-# bool(None)
 
-
-aTuple = (1, 'Jhon', 1+3j)
-
-ls = [1,2,3]
-
-ls[2:4]
-
-
-ls =  (2*3)*5
+# x = 0
+# while x < 3:
+#     x += 1  # 3
+#     if x == 2:
+#         continue
+#     print(x) #1,3
 
 
 
-sampleList = ["Jon", "Kelly", "Jessa"]
-# sampleList.append(2, "Scott")
-# print(sampIeList)
-
-
-sampleList.pop()
+for i in 'Jhon':
+   if i == 'o':
+      pass
+   print(i, end=", ")
