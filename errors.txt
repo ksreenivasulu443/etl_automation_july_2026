@@ -3,3 +3,9 @@ ValueError: substring not found
 KeyError : dictionary extracting key using index
 KeyboardInterrupt
 ValueError: too many values to unpack (expected 2)
+TypeError: calc() missing 1 required positional argument: 'b'
+TypeError: calc() takes 2 positional arguments but 3 were given
+TypeError: calc() got an unexpected keyword argument 'c'
+SyntaxError: positional argument follows keyword argument
+TypeError: calc() got multiple values for argument 'a'
+NameError: name 'c' is not defined

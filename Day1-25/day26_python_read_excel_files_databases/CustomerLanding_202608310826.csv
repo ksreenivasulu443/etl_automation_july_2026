@@ -1,0 +1,3 @@
+"CustomerID","CustomerName","Email","PhoneNumber","City","StateName","SourceFileName","InsertDate","HashKey"
+"1001",Rahul Sharma,rahul.sharma@example.com,"9876543210",Bengaluru,Karnataka,customer_01012026.csv,2026-08-29 02:38:19.007,A557AD7858893E3CF0815720452CD9043BB17B1172F9052432BC5F74E437110B
+"1002",Priya Reddy,priya.reddy@example.com,"9876543211",Hyderabad,Telangana,customer_01012026.csv,2026-08-29 02:38:19.007,"4C58EF791B78E1D3176FDB2AFFEBD9C6C5FF817F832EB44A039CD142B337D635"

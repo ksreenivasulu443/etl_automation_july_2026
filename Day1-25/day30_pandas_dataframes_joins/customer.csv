@@ -1,0 +1,8 @@
+customer_id,customer_name,city,state,email,salary,status
+101,Sreenivas,Bangalore,KA,sreeni@gmail.com,85000,A
+102,Ravi,Hyderabad,TG,ravi@gmail.com,65000,A
+103,Priya,,TN,priya@gmail.com,90000,A
+104,Anil,Chennai,TN,,75000,I
+105,Divya,Bangalore,KA,divya@gmail.com,120000,A
+106,Ravi,Hyderabad,TG,ravi@gmail.com,65000,A
+107,Kiran,Mumbai,MH,kiran@gmail.com,,A

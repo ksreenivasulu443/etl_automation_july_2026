@@ -1,0 +1,11 @@
+{
+    "fruit" : "Apple",
+    "size" : "Large",
+    "colour" : "Red"
+}
+
+
+//fruit size color
+//Apple   L   R
+//#if one record is split into multiple row we call it as multiline json file
+//# if one record is split into single row we call it as singleline json file

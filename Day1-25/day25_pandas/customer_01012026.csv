@@ -1,0 +1,5 @@
+CustomerID,CustomerName,Email,PhoneNumber,City,StateName
+1001,Rahul Sharma,rahul.sharma@example.com,9876543210,Bengaluru,Karnataka
+1002,Priya Reddy,priya.reddy@example.com,9876543211,Hyderabad,Telangana
+1003,Arjun Kumar,arjun.kumar@example.com,9876543212,Chennai,Tamil Nadu
+1004,Sneha Patel,sneha.patel@example.com,9876543213,Mumbai,Maharashtra

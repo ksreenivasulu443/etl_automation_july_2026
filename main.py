@@ -1,23 +1,21 @@
-a = 10
-print(type(a))
-print(globals())
-b = 20
-print(globals())
-c = 30
-print(globals())
-d = 40
-print(globals())
-print(a+b+c+d)
-
-e = 'Sreenivas'
-f = 0
-print(globals())
-try:
-    print(e/f)
-except ZeroDivisionError:
-    print("Division by zero")
-
-print("this is last line in main.py")
-
-a = 'sreeni'
-b = 'sreeni'
+# import pandas as pd
+#
+# df = pd.read_json(r"C:\Users\Haritha\PycharmProjects\etl_automation_july_2026\input_files\employee.json")
+#
+# print(df)
+#
+#
+# import json
+# import pandas as pd
+#
+# with open(r"C:\Users\Haritha\PycharmProjects\etl_automation_july_2026\input_files\Complex.json", "r") as file:
+#     data = json.load(file)
+#
+# print(data)
+#
+# df = pd.json_normalize(data)
+#
+# print(df)
+import pandas as pd
+df = pd.read_excel(r"C:\Users\Haritha\PycharmProjects\etl_automation_july_2026\input_files\Master_Test_Template.xlsx")
+print(df)
