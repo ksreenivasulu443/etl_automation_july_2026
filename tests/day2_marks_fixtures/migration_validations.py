@@ -62,12 +62,11 @@ def test_migration_aggregates(source_table_name, target_table_name):
     )
 ])
 def test_schema(source_table_name, target_table_name):
-
     conn = snow.connect(
         user='fedexadmin',
-        password='Dharmavaram1@',
+        password='Dharmavaram1@1@',
         account='kefeety-io28450',
-        warehouse='COMPUTE_WH'
+        warehouse='COMPUTE_WH',
     )
 
     source_table = source_table_name.split(".")[-1].upper()
