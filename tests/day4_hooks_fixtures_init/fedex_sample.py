@@ -1,5 +1,8 @@
 import pytest
 
 @pytest.mark.functional
-def altra_one():
+@pytest.mark.regression
+@pytest.mark.prodrelease
+@pytest.mark.sanity
+def hdfc_one():
     assert True
