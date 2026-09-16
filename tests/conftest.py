@@ -26,3 +26,4 @@ def input_value2():
 def read_inputs(input_value1, input_value2):
     print("read inputs fixture")
     return input_value1, input_value2
+
