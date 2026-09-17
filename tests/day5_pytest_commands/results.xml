@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="4" skipped="0" tests="5" time="0.450" timestamp="2026-09-17T08:15:40.735044+05:30" hostname="admin"><testcase classname="tests.day5_pytest_commands.test_customer" name="test_one" time="0.001"><failure message="assert False">test_customer.py:2: in test_one
+    assert False
+E   assert False</failure></testcase><testcase classname="tests.day5_pytest_commands.test_customer" name="test_two" time="0.001"><failure message="assert False">test_customer.py:4: in test_two
+    assert False
+E   assert False</failure></testcase><testcase classname="tests.day5_pytest_commands.test_customer" name="test_three" time="0.002"><failure message="assert 1 == 2">test_customer.py:6: in test_three
+    assert 1==2
+E   assert 1 == 2</failure></testcase><testcase classname="tests.day5_pytest_commands.test_customer" name="test_four" time="0.002" /><testcase classname="tests.day5_pytest_commands.test_customer" name="test_five" time="0.001"><failure message="assert False">test_customer.py:12: in test_five
+    assert False
+E   assert False</failure></testcase></testsuite></testsuites>
